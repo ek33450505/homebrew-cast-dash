@@ -1,9 +1,9 @@
 class CastDash < Formula
   desc "Terminal UI dashboard for Claude Code — htop for CAST"
   homepage "https://github.com/ek33450505/cast-dash"
-  url "https://github.com/ek33450505/cast-dash/archive/refs/tags/v0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "1d8beae426a41d55058367b99db544817c00c4f0827ca7be0bb2bc09f7adee41"
+  url "https://github.com/ek33450505/cast-dash/archive/refs/tags/v0.2.0.tar.gz"
+  version "0.2.0"
+  sha256 "ca269009a48d2df71edfce478a277f8af134cb4726a46d72fed9f144325cfeab"
   license "MIT"
 
   depends_on "python@3"
